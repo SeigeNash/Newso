@@ -1,0 +1,6 @@
+package com.example.newso.data.entity.entities
+
+data class Source(
+    val id: String,
+    val name: String
+)
